@@ -19,14 +19,14 @@ Distinguished between development and production systems while validating challe
 
 Skills demonstrated:
 
-Linux system administration
-User and group management
-Privilege escalation configuration
-Apache (httpd) administration
-Package management (APT/YUM/DNF)
-Network and DNS troubleshooting
-Server update and maintenance procedures
-Cybersecurity operations and system hardening fundamentals
+- <d>Linux system administration</d>
+- <d>User and group management</d>
+- <d>Privilege escalation configuration</d>
+- <d>Apache (httpd) administration</d>
+- <d>Package management (APT/YUM/DNF)</d>
+- <d>Network and DNS troubleshooting</d>
+- <d>Server update and maintenance procedures</d>
+- <d>Cybersecurity operations and system hardening fundamentals</d>
 
 <img width="1026" height="235" alt="Screenshot 2026-09-26 172334" src="https://github.com/user-attachments/assets/a484178c-1aa1-43ab-a937-cc11cce114a9" />
 
