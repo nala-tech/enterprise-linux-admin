@@ -28,6 +28,19 @@ Skills demonstrated:
 - <d>Server update and maintenance procedures</d>
 - <d>Cybersecurity operations and system hardening fundamentals</d>
 
+Prior to this you should have entered the VM for the production webserver and opened the terminal 
+
+Enter the username followed by the password for the Production Webserver. Note: The password input will appear blank even after you have typed it in. 
+
+<img width="388" height="33" alt="Step1" src="https://github.com/user-attachments/assets/a3fa3c31-ef20-4ac6-866a-bd3426c2e34e" />
+
+Create a new user then
+Check what groups the user is currently in. Note: This should return 1 group which is the same name as the user. 
+
+<img width="398" height="51" alt="Step 2" src="https://github.com/user-attachments/assets/e4963950-d187-4265-a2af-ba8d9820322a" />
+
+
+
 <img width="1026" height="235" alt="Screenshot 2026-09-26 172334" src="https://github.com/user-attachments/assets/a484178c-1aa1-43ab-a937-cc11cce114a9" />
 
 <img width="1025" height="287" alt="Screenshot 2026-09-26 172348" src="https://github.com/user-attachments/assets/1be999f2-0d6a-4434-b27d-2fee4a2d01aa" />
