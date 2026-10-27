@@ -2,7 +2,7 @@
 
 XP Cyber Range Challenge Summary
 
-In this challenge, I was tasked with improving the security and administration of a production web server as well as providing elevated privileges to a specific user. I first investigated the environment to identify the correct systems and services involved. While troubleshooting, I discovered that the web server was running Apache as the httpd service on a Linux-based system rather than the Ubuntu-style apache2 service.
+In this challenge, I was tasked with improving the security and administration of a production web server as well as providing elevated privileges to a specific user. I first investigated the environment to identify the correct systems and services involved. 
 
 I performed package management and update operations, including refreshing the system repositories and upgrading the Apache web server software from an older version to a current release. During the process, I diagnosed update failures by testing network connectivity and repository access, confirming that the server could reach external package sources.
 
